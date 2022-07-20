@@ -49,3 +49,12 @@ body
 #foto{
     margin-right: 20px;
 }
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 50%;
+    padding: 10px;
+  }
