@@ -14,8 +14,8 @@ body
     margin: 0;
 }
 
-#nombre{
-    font-size: 20px;  
+.container-fluid .nombre{
+    font-size: 35px;  
 }
 
 #container
@@ -45,4 +45,7 @@ body
 }
 #container #home-text{
     font-size:20px;
+}
+#foto{
+    margin-right: 20px;
 }
