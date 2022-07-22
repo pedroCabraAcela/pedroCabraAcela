@@ -23,7 +23,6 @@ body
 {
     width: 100%;
     text-align: left;
-    border: 1px solid #DDD; 
     margin: 0 auto;
 }
 #container #h1
@@ -40,7 +39,6 @@ body
     color: #01665e;
     text-align: center;
     padding: 0.5em;
-    margin-top: 5vh;
 }
 #container #block-text{
     font-size:20px;
@@ -87,3 +85,4 @@ body
 #others-color{
     background-color: #5ab4ac;
 }
+
