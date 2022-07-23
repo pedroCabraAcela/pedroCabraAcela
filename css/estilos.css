@@ -53,46 +53,46 @@ h1 {
 
 /*padding to avoid overlapping with the navbar*/
 #home {
-  padding-top: 12vh;
+  padding-top: 18vh;
+  margin-top: -12vh;
 }
 #education {
-  padding-top: 6vh;
+  padding-top: 12vh;
+  margin-top: -12vh;
 }
 #research {
-  padding-top: 6vh;
+  padding-top: 12vh;
+  margin-top: -12vh;
 }
 #others {
-  padding-top: 6vh;
+  padding-top: 12vh;
+  margin-top: -12vh;
 }
 #experience {
-  padding-top: 6vh;
+  padding-top: 12vh;
+  margin-top: -12vh;
 }
 
 /*bg colors*/
 #home-color {
   background-color: #d8b365;
   padding: 3vw;
-  padding-bottom: 6vh;
 }
 #educ-color {
   background-color: #f5f5f5;
   padding: 3vw;
-  padding-bottom: 6vh;
 }
 #exp-color {
   background-color: #5ab4ac;
   padding: 3vw;
-  padding-bottom: 6vh;
 }
 #res-color {
   background-color: #c7eae5;
   padding: 3vw;
-  padding-bottom: 6vh;
 }
 #others-color {
   background-color: #5ab4ac;
   padding: 3vw;
-  padding-bottom: 6vh;
 }
 
 /*ICONS*/
