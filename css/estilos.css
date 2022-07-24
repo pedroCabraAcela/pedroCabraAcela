@@ -16,8 +16,16 @@ body {
 }
 
 .container-fluid .nombre {
-  font-size: 20px;
-  /*Seria cool poner una tipografía especial como FIRMA*/
+  font-size: 25px;
+  font-family: 'Fredericka the Great';
+  /*
+  Vollkorn SC
+  Major Mono Display
+  Fredericka the Great
+  Rajdhani
+  BenchNine
+  */
+
 }
 
 #container {
