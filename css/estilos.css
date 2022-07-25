@@ -53,6 +53,7 @@ body {
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     border-radius: 8%;
     margin-right: 2vw;
+    margin-bottom: 2vw;
 }
 
 h1 {
@@ -83,7 +84,7 @@ h1 {
 
 /*bg colors*/
 #home-color {
-  background-color: #d8b365;
+  background-color: #D5D5D5;
   padding: 3vw;
 }
 #educ-color {
@@ -91,15 +92,15 @@ h1 {
   padding: 3vw;
 }
 #exp-color {
-  background-color: #5ab4ac;
+  background-color: #E9E2D8;
   padding: 3vw;
 }
 #res-color {
-  background-color: #c7eae5;
+  background-color: #D5D5D5;
   padding: 3vw;
 }
 #others-color {
-  background-color: #5ab4ac;
+  background-color: #f5f5f5;
   padding: 3vw;
 }
 
