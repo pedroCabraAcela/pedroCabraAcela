@@ -4,12 +4,11 @@ body {
 }
 #cabecera {
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-  font-size: 15px;
   margin: 0;
   position: fixed;
   background-color: #243e36;
   width: 100vw;
-  padding-right: 8vw;
+  padding-right: 4.5vw;
   font-family: "Roboto";
 }
 
@@ -120,11 +119,16 @@ h2 {
 
 /*ICONS*/
 .iconos {
-  height: 3.5vw;
-  margin: 1vw;
+  height: 3vw;
+  margin: 0.5vw;
+  margin-top: 2vh;
   padding: 0.5vw;
 }
 .iconos:hover {
   background-color: #69a297;
   border-radius: 100%;
+}
+
+ul{
+  list-style-type: circle
 }
