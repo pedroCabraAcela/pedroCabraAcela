@@ -146,14 +146,14 @@ ul {
     font-size: small;
   }
   #icono-header {
-    width: 25;
-    height: 25;
+    width: 25px;
+    height: 25px;
   }
   #cabecera {
     font-size: small;
   }
   #foto {
-    width: 170;
+    width: 170px;
   }
   /*ICONS*/
   .iconos {
