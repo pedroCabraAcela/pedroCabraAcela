@@ -47,6 +47,8 @@ body {
   margin-right: 2vw;
   margin-bottom: 0.5vh;
   float: left;
+  width: 270;
+  height: auto;
 }
 #contHome {
   display: inline-block;
@@ -128,7 +130,36 @@ h2 {
   background-color: #69a297;
   border-radius: 100%;
 }
+#icono-header {
+  width: 50;
+  height: 50;
+}
 
-ul{
-  list-style-type: circle
+ul {
+  list-style-type: circle;
+}
+
+/*---------------------Mobile---------------------------*/
+
+@media only screen and (max-width: 500px) {
+  .container-fluid .nombre {
+    font-size: small;
+  }
+  #icono-header {
+    width: 25;
+    height: 25;
+  }
+  #cabecera {
+    font-size: small;
+  }
+  #foto {
+    width: 170;
+  }
+  /*ICONS*/
+  .iconos {
+    height: 6vw;
+    margin: 0.5vw;
+    margin-top: 2vh;
+    padding: 0.5vw;
+  }
 }
