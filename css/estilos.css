@@ -67,24 +67,24 @@ h2 {
 
 /*padding to avoid overlapping with the navbar*/
 #home {
-  padding-top: 18vh;
-  margin-top: -12vh;
+  padding-top: 21vh;
+  margin-top: -13vh;
 }
 #education {
-  padding-top: 12vh;
-  margin-top: -12vh;
+  padding-top: 13vh;
+  margin-top: -13vh;
 }
 #research {
-  padding-top: 12vh;
-  margin-top: -12vh;
+  padding-top: 13vh;
+  margin-top: -13vh;
 }
 #others {
-  padding-top: 12vh;
-  margin-top: -12vh;
+  padding-top: 13vh;
+  margin-top: -13vh;
 }
 #experience {
-  padding-top: 12vh;
-  margin-top: -12vh;
+  padding-top: 13vh;
+  margin-top: -13vh;
 }
 
 /*bg colors*/
