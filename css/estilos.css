@@ -143,7 +143,7 @@ ul {
 
 @media only screen and (max-width: 500px) {
   .container-fluid .nombre {
-    font-size: medium;
+    font-size:16px;
   }
   #icono-header {
     width: 25px;
